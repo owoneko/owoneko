@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wipe672
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my project
 - 📫 You can reach me via coolapk(晨星光芒) ...
 
 <!---
