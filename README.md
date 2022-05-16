@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wipe672
+- 👋 Hi, I’m @owoneko
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on my project
