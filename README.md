@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on my project
-- 📫 You can reach me via coolapk(晨星光芒) ...
+- 📫 You can reach me via outlook ...
 
 <!---
 wipe672/wipe672 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
